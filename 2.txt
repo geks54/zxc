@@ -1,3 +1,7 @@
 zxc123
 aboba
+<<<<<<< HEAD
 zxcfasfa
+=======
+12345
+>>>>>>> vetka
